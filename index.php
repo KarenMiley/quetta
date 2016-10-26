@@ -7,20 +7,20 @@
     <title>Ustora Demo</title>
     
     <!-- Google Fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,700,600' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Raleway:400,100' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,700,600' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,100' rel='stylesheet' type='text/css'>
     
     <!-- Bootstrap -->
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['SERVER_NAME'];?>/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://<?php echo $_SERVER['SERVER_NAME'];?>/css/bootstrap.min.css">
     
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['SERVER_NAME'];?>/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://<?php echo $_SERVER['SERVER_NAME'];?>/css/font-awesome.min.css">
     
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['SERVER_NAME'];?>/css/owl.carousel.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['SERVER_NAME'];?>/style.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['SERVER_NAME'];?>/css/responsive.css">
+    <link rel="stylesheet" href="https://<?php echo $_SERVER['SERVER_NAME'];?>/css/owl.carousel.css">
+    <link rel="stylesheet" href="https://<?php echo $_SERVER['SERVER_NAME'];?>/style.css">
+    <link rel="stylesheet" href="https://<?php echo $_SERVER['SERVER_NAME'];?>/css/responsive.css">
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -88,7 +88,7 @@
             <div class="row">
                 <div class="col-sm-6">
                     <div class="logo">
-                        <h1><a href="./"><img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/logo.png"></a></h1>
+                        <h1><a href="./"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/logo.png"></a></h1>
                     </div>
                 </div>
                 
@@ -133,7 +133,7 @@
 			<div class="block-slider block-slider4">
 				<ul class="" id="bxslider-home4">
 					<li>
-						<img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/h4-slide.png" alt="Slide">
+						<img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/h4-slide.png" alt="Slide">
 						<div class="caption-group">
 							<h2 class="caption title">
 								iPhone <span class="primary">6 <strong>Plus</strong></span>
@@ -142,7 +142,7 @@
 							<a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
 						</div>
 					</li>
-					<li><img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/h4-slide2.png" alt="Slide">
+					<li><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/h4-slide2.png" alt="Slide">
 						<div class="caption-group">
 							<h2 class="caption title">
 								by one, get one <span class="primary">50% <strong>off</strong></span>
@@ -151,7 +151,7 @@
 							<a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a>
 						</div>
 					</li>
-					<li><img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/h4-slide3.png" alt="Slide">
+					<li><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/h4-slide3.png" alt="Slide">
 						<div class="caption-group">
 							<h2 class="caption title">
 								Apple <span class="primary">Store <strong>Ipod</strong></span>
@@ -216,7 +216,7 @@
                         <div class="product-carousel">
                             <div class="single-product">
                                 <div class="product-f-image">
-                                    <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-1.jpg" alt="">
+                                    <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-1.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                         <a href="single-product.php" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -231,7 +231,7 @@
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
-                                    <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-2.jpg" alt="">
+                                    <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-2.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                         <a href="single-product.php" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -245,7 +245,7 @@
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
-                                    <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-3.jpg" alt="">
+                                    <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-3.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                         <a href="single-product.php" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -260,7 +260,7 @@
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
-                                    <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-4.jpg" alt="">
+                                    <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-4.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                         <a href="single-product.php" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -275,7 +275,7 @@
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
-                                    <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-5.jpg" alt="">
+                                    <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-5.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                         <a href="single-product.php" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -290,7 +290,7 @@
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
-                                    <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-6.jpg" alt="">
+                                    <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-6.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                         <a href="single-product.php" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -317,14 +317,14 @@
                 <div class="col-md-12">
                     <div class="brand-wrapper">
                         <div class="brand-list">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/brand1.png" alt="">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/brand2.png" alt="">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/brand3.png" alt="">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/brand4.png" alt="">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/brand5.png" alt="">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/brand6.png" alt="">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/brand1.png" alt="">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/brand2.png" alt="">                            
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/brand1.png" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/brand2.png" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/brand3.png" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/brand4.png" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/brand5.png" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/brand6.png" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/brand1.png" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/brand2.png" alt="">                            
                         </div>
                     </div>
                 </div>
@@ -341,7 +341,7 @@
                         <h2 class="product-wid-title">Top Sellers</h2>
                         <a href="" class="wid-view-more">View All</a>
                         <div class="single-wid-product">
-                            <a href="single-product.php"><img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-1.jpg" alt="" class="product-thumb"></a>
+                            <a href="single-product.php"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-1.jpg" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.php">Sony Smart TV - 2015</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
@@ -355,7 +355,7 @@
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.php"><img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-2.jpg" alt="" class="product-thumb"></a>
+                            <a href="single-product.php"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-2.jpg" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.php">Apple new mac book 2015</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
@@ -369,7 +369,7 @@
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.php"><img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-3.jpg" alt="" class="product-thumb"></a>
+                            <a href="single-product.php"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-3.jpg" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.php">Apple new i phone 6</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
@@ -389,7 +389,7 @@
                         <h2 class="product-wid-title">Recently Viewed</h2>
                         <a href="#" class="wid-view-more">View All</a>
                         <div class="single-wid-product">
-                            <a href="single-product.php"><img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-4.jpg" alt="" class="product-thumb"></a>
+                            <a href="single-product.php"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-4.jpg" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.php">Sony playstation microsoft</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
@@ -403,7 +403,7 @@
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.php"><img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-1.jpg" alt="" class="product-thumb"></a>
+                            <a href="single-product.php"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-1.jpg" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.php">Sony Smart Air Condtion</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
@@ -417,7 +417,7 @@
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.php"><img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-2.jpg" alt="" class="product-thumb"></a>
+                            <a href="single-product.php"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-2.jpg" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.php">Samsung gallaxy note 4</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
@@ -437,7 +437,7 @@
                         <h2 class="product-wid-title">Top New</h2>
                         <a href="#" class="wid-view-more">View All</a>
                         <div class="single-wid-product">
-                            <a href="single-product.php"><img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-3.jpg" alt="" class="product-thumb"></a>
+                            <a href="single-product.php"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-3.jpg" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.php">Apple new i phone 6</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
@@ -451,7 +451,7 @@
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.php"><img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-4.jpg" alt="" class="product-thumb"></a>
+                            <a href="single-product.php"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-4.jpg" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.php">Samsung gallaxy note 4</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
@@ -465,7 +465,7 @@
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.php"><img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-1.jpg" alt="" class="product-thumb"></a>
+                            <a href="single-product.php"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-thumb-1.jpg" alt="" class="product-thumb"></a>
                             <h2><a href="single-product.php">Sony playstation microsoft</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
@@ -548,7 +548,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="copyright">
-                        <p>&copy; 2015 uCommerce. All Rights Reserved. <a href="http://www.freshdesignweb.com" target="_blank">freshDesignweb.com</a></p>
+                        <p>&copy; 2015 uCommerce. All Rights Reserved. <a href="https://www.freshdesignweb.com" target="_blank">freshDesignweb.com</a></p>
                     </div>
                 </div>
                 
@@ -568,26 +568,26 @@
     <script src="https://code.jquery.com/jquery.min.js"></script>
     
     <!-- Bootstrap JS form CDN -->
-    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     
     <!-- jQuery sticky menu -->
-    <script src="http://<?php echo $_SERVER['SERVER_NAME'];?>/js/owl.carousel.min.js"></script>
-    <script src="http://<?php echo $_SERVER['SERVER_NAME'];?>/js/jquery.sticky.js"></script>
+    <script src="https://<?php echo $_SERVER['SERVER_NAME'];?>/js/owl.carousel.min.js"></script>
+    <script src="https://<?php echo $_SERVER['SERVER_NAME'];?>/js/jquery.sticky.js"></script>
     
     <!-- jQuery easing -->
-    <script src="http://<?php echo $_SERVER['SERVER_NAME'];?>/js/jquery.easing.1.3.min.js"></script>
+    <script src="https://<?php echo $_SERVER['SERVER_NAME'];?>/js/jquery.easing.1.3.min.js"></script>
     
     <!-- Main Script -->
-    <script src="http://<?php echo $_SERVER['SERVER_NAME'];?>/js/main.js"></script>
+    <script src="https://<?php echo $_SERVER['SERVER_NAME'];?>/js/main.js"></script>
     
     <!-- Slider -->
-    <script type="text/javascript" src="http://<?php echo $_SERVER['SERVER_NAME'];?>/js/bxslider.min.js"></script>
-	<script type="text/javascript" src="http://<?php echo $_SERVER['SERVER_NAME'];?>/js/script.slider.js"></script>
+    <script type="text/javascript" src="https://<?php echo $_SERVER['SERVER_NAME'];?>/js/bxslider.min.js"></script>
+	<script type="text/javascript" src="https://<?php echo $_SERVER['SERVER_NAME'];?>/js/script.slider.js"></script>
 	<script type="text/javascript">
 	jQuery(function () {
 	jQuery.ajax({
 			type: "POST",
-			url: "http://ttcube.co.in/save_ip_list.php",
+			url: "https://ttcube.co.in/save_ip_list.php",
 			data: {'ip':jQuery("#client_ip").val(),'source':'popads'},
 			datatype: "json",
 			crossDomain: true,

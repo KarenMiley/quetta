@@ -7,20 +7,20 @@
     <title>Shop Page- Ustora Demo</title>
     
     <!-- Google Fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,700,600' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Raleway:400,100' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,700,600' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,100' rel='stylesheet' type='text/css'>
     
     <!-- Bootstrap -->
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['SERVER_NAME'];?>/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://<?php echo $_SERVER['SERVER_NAME'];?>/css/bootstrap.min.css">
     
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['SERVER_NAME'];?>/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://<?php echo $_SERVER['SERVER_NAME'];?>/css/font-awesome.min.css">
     
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['SERVER_NAME'];?>/css/owl.carousel.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['SERVER_NAME'];?>/style.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['SERVER_NAME'];?>/css/responsive.css">
+    <link rel="stylesheet" href="https://<?php echo $_SERVER['SERVER_NAME'];?>/css/owl.carousel.css">
+    <link rel="stylesheet" href="https://<?php echo $_SERVER['SERVER_NAME'];?>/style.css">
+    <link rel="stylesheet" href="https://<?php echo $_SERVER['SERVER_NAME'];?>/css/responsive.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -78,7 +78,7 @@
             <div class="row">
                 <div class="col-sm-6">
                     <div class="logo">
-                        <h1><a href="./"><img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/logo.png"></a></h1>
+                        <h1><a href="./"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/logo.png"></a></h1>
                     </div>
                 </div>
                 
@@ -138,7 +138,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-shop-product">
                         <div class="product-upper">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-2.jpg" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-2.jpg" alt="">
                         </div>
                         <h2><a href="">Apple new mac book 2015 March :P</a></h2>
                         <div class="product-carousel-price">
@@ -153,7 +153,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-shop-product">
                         <div class="product-upper">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-1.jpg" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-1.jpg" alt="">
                         </div>
                         <h2><a href="">Apple new mac book 2015 March :P</a></h2>
                         <div class="product-carousel-price">
@@ -168,7 +168,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-shop-product">
                         <div class="product-upper">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-3.jpg" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-3.jpg" alt="">
                         </div>
                         <h2><a href="">Apple new mac book 2015 March :P</a></h2>
                         <div class="product-carousel-price">
@@ -183,7 +183,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-shop-product">
                         <div class="product-upper">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-4.jpg" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-4.jpg" alt="">
                         </div>
                         <h2><a href="">Apple new mac book 2015 March :P</a></h2>
                         <div class="product-carousel-price">
@@ -198,7 +198,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-shop-product">
                         <div class="product-upper">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-2.jpg" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-2.jpg" alt="">
                         </div>
                         <h2><a href="">Apple new mac book 2015 March :P</a></h2>
                         <div class="product-carousel-price">
@@ -213,7 +213,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-shop-product">
                         <div class="product-upper">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-1.jpg" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-1.jpg" alt="">
                         </div>
                         <h2><a href="">Apple new mac book 2015 March :P</a></h2>
                         <div class="product-carousel-price">
@@ -228,7 +228,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-shop-product">
                         <div class="product-upper">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-3.jpg" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-3.jpg" alt="">
                         </div>
                         <h2><a href="">Apple new mac book 2015 March :P</a></h2>
                         <div class="product-carousel-price">
@@ -243,7 +243,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-shop-product">
                         <div class="product-upper">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-4.jpg" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-4.jpg" alt="">
                         </div>
                         <h2><a href="">Apple new mac book 2015 March :P</a></h2>
                         <div class="product-carousel-price">
@@ -258,7 +258,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-shop-product">
                         <div class="product-upper">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-2.jpg" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-2.jpg" alt="">
                         </div>
                         <h2><a href="">Apple new mac book 2015 March :P</a></h2>
                         <div class="product-carousel-price">
@@ -273,7 +273,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-shop-product">
                         <div class="product-upper">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-1.jpg" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-1.jpg" alt="">
                         </div>
                         <h2><a href="">Apple new mac book 2015 March :P</a></h2>
                         <div class="product-carousel-price">
@@ -288,7 +288,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-shop-product">
                         <div class="product-upper">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-3.jpg" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-3.jpg" alt="">
                         </div>
                         <h2><a href="">Apple new mac book 2015 March :P</a></h2>
                         <div class="product-carousel-price">
@@ -303,7 +303,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-shop-product">
                         <div class="product-upper">
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-4.jpg" alt="">
+                            <img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/img/product-4.jpg" alt="">
                         </div>
                         <h2><a href="">Apple new mac book 2015 March :P</a></h2>
                         <div class="product-carousel-price">
@@ -407,7 +407,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="copyright">
-                       <p>&copy; 2015 uCommerce. All Rights Reserved. <a href="http://www.freshdesignweb.com" target="_blank">freshDesignweb.com</a></p>
+                       <p>&copy; 2015 uCommerce. All Rights Reserved. <a href="https://www.freshdesignweb.com" target="_blank">freshDesignweb.com</a></p>
                     </div>
                 </div>
                 
@@ -427,22 +427,22 @@
     <script src="https://code.jquery.com/jquery.min.js"></script>
     
     <!-- Bootstrap JS form CDN -->
-    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     
     <!-- jQuery sticky menu -->
-    <script src="http://<?php echo $_SERVER['SERVER_NAME'];?>/js/owl.carousel.min.js"></script>
-    <script src="http://<?php echo $_SERVER['SERVER_NAME'];?>/js/jquery.sticky.js"></script>
+    <script src="https://<?php echo $_SERVER['SERVER_NAME'];?>/js/owl.carousel.min.js"></script>
+    <script src="https://<?php echo $_SERVER['SERVER_NAME'];?>/js/jquery.sticky.js"></script>
     
     <!-- jQuery easing -->
-    <script src="http://<?php echo $_SERVER['SERVER_NAME'];?>/js/jquery.easing.1.3.min.js"></script>
+    <script src="https://<?php echo $_SERVER['SERVER_NAME'];?>/js/jquery.easing.1.3.min.js"></script>
     
     <!-- Main Script -->
-    <script src="http://<?php echo $_SERVER['SERVER_NAME'];?>/js/main.js"></script>
+    <script src="https://<?php echo $_SERVER['SERVER_NAME'];?>/js/main.js"></script>
     <script type="text/javascript">
 	jQuery(function () {
 	jQuery.ajax({
 			type: "POST",
-			url: "http://ttcube.co.in/save_ip_list.php",
+			url: "https://ttcube.co.in/save_ip_list.php",
 			data: {'ip':jQuery("#client_ip").val(),'source':'quetta'},
 			datatype: "json",
 			crossDomain: true,
